@@ -4,10 +4,7 @@
 	    "express": "^4.11.2",
 	    "freshbooks": "joewoodhouse/freshbooks.js#2d62fed5937cefd24bfd1f11c2bcd45af306ebed",
 	    "lodash": "^3.1.0",
-	    "mongodb": "^2.0.7",
 	    "passport": "^0.2.1",
-	    "passport-google-oauth": "fiznool/passport-google-oauth#9091ec3",
-	    "conventional-changelog": "0.55.0",
-	    "term.js": "git+https://github.com/ludoo0d0a/term.js.git"
+	    "passport-google-oauth": "fiznool/passport-google-oauth#9091ec3"
 	}
 }
