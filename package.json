@@ -1,11 +1,15 @@
 {
 	"dependencies": {
 	    "async": "^0.9.0",
-	    "express": "^4.11.2",
+	    "babel": "5.5.4",
+	    "babel-core": "5.4.7",
+	    "express": "~3",
 	    "freshbooks": "joewoodhouse/freshbooks.js#2d62fed5937cefd24bfd1f11c2bcd45af306ebed",
-	    "lodash": "^3.1.0",
+	    "lodash": "^3.1",
 	    "mongodb": "^2.0.7",
-	    "passport": "^0.2.1",
+	    "passport": ">0.1 <0.2",
+	    "bluebird": "<2.0",
+	    "colors": ">1.0",
 	    "passport-google-oauth": "fiznool/passport-google-oauth#9091ec3",
 	    "conventional-changelog": "0.55.0",
 	    "term.js": "git+https://github.com/ludoo0d0a/term.js.git"
