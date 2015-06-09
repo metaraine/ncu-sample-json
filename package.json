@@ -12,6 +12,7 @@
 	    "colors": ">1.0",
 	    "passport-google-oauth": "fiznool/passport-google-oauth#9091ec3",
 	    "conventional-changelog": "0.55.0",
-	    "term.js": "git+https://github.com/ludoo0d0a/term.js.git"
+	    "term.js": "git+https://github.com/ludoo0d0a/term.js.git",
+	    "pmd-player": "git+ssh://git@repo.org:orga/lib-package#1.4.2"
 	}
 }
