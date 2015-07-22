@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "npm-check-updates": "^2.0.0-alpha.10"
+  }
+}

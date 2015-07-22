@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "gulp-ng-html2js": "lookfirst/gulp-ng-html2js#export2"
+  }
+}

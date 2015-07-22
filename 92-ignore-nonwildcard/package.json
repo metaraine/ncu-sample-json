@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "moment": "*",
+    "express": "1.x",
+    "jspm": "0.15.7"
+  }
+}
