@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "express": "1.x"
+    "express": "1.x",
+    "chalk": "^1.0.0"
   }
 }
