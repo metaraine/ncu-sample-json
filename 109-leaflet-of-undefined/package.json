@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "leaflet": "^1.0.0-beta"
-  },
-  "devDependencies": {
-    "react-router": "^1.0.0-beta3"
-  }
-}
