@@ -1,0 +1,12 @@
+{
+  "name": "test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/metaraine/ncu-sample-json",
+  "authors": [
+    "metaraine <raineorshine@gmail.com>"
+  ],
+  "dependencies": {
+  	"jquery": "^1.0.0"
+	},
+  "license": "MIT"
+}
